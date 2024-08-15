@@ -13,4 +13,4 @@ Prerequisites
 Ensure you have the following installed:
 1) Python 3.x
 2) Virtual Environment (optional but recommended)
-3) Git
+3) Git.
